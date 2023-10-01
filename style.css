@@ -287,3 +287,20 @@ body{
 	bottom: 20px;
 	right: 10px;
 }
+
+/*shop page*/
+#page-header{
+	background-image: url("images/hero15.jpg");
+	width: 100%;
+	height: 50vh;
+	background-size: cover;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 14px;
+}
+#page-header h2,
+#page-header p{
+	color: white;
+}
